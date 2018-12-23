@@ -1,0 +1,44 @@
+STARTING EXPORT: 2018-12-23 07:15:13
+STARTING EXPORT: PHP VERSION 7.2.13-1+ubuntu18.04.1+deb.sury.org+1
+STARTING EXPORT: OS VERSION Linux geocages 4.15.0-29-generic #31-Ubuntu SMP Tue Jul 17 15:39:52 UTC 2018 x86_64
+STARTING EXPORT: WP VERSION 5.0.2
+STARTING EXPORT: WP URL http://geocages.local
+STARTING EXPORT: WP SITEURL http://geocages.local/wp
+STARTING EXPORT: WP HOME http://geocages.local
+STARTING EXPORT: WP ADDRESS http://geocages.local/wp
+STARTING EXPORT: PLUGIN VERSION 6.0
+STARTING EXPORT: VIA WP-CLI? 
+STARTING EXPORT: STATIC EXPORT URL https://geocages.com/
+BAD RESPONSE STATUS (404): /sitemap.xml
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/wordpress.png
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/inkwell-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/forestfloor.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/fern.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/sunset-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/fern-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/cherryblossoms-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/inkwell.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/path.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/cherryblossoms.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/concave-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/path-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/berries.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/sunset.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/concave.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/forestfloor-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/images/headers/berries-thumbnail.jpg
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/blocks.css
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/editor-blocks.css
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/screenshot.png
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/style.css
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/editor-style.css
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/editor-style-rtl.css
+BAD RESPONSE STATUS (404): wp//wp/wp-content/themes/twentyten/rtl.css
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/css/font-awesome.css
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/FontAwesome.otf
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff
+BAD RESPONSE STATUS (404): /srv/www/geocages.com/current/web/app/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot

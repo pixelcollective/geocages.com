@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 312.5 280.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c3c40;
+      }
+
+      .cls-1, .cls-2, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fb4909;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 9.5px;
+        font-family: SourceSansPro-Regular, Source Sans Pro;
+      }
+
+      .cls-5 {
+        font-size: 12px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-10, .cls-6, .cls-7, .cls-9 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-7, .cls-9 {
+        stroke-linecap: square;
+      }
+
+      .cls-8 {
+        fill: #fc4b0b;
+      }
+
+      .cls-11 {
+        filter: url(#flag-4);
+      }
+
+      .cls-12 {
+        filter: url(#bg-4);
+      }
+
+      .cls-13 {
+        filter: url(#flag-3);
+      }
+
+      .cls-14 {
+        filter: url(#bg-3);
+      }
+
+      .cls-15 {
+        filter: url(#flag-2);
+      }
+
+      .cls-16 {
+        filter: url(#bg-2);
+      }
+
+      .cls-17 {
+        filter: url(#flag);
+      }
+
+      .cls-18 {
+        filter: url(#bg);
+      }
+    </style>
+    <filter id="bg" x="0" y="182.1" width="312.5" height="71.6" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="flag" x="0" y="182.1" width="76.4" height="98.2" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-2" x="0" y="121.4" width="312.5" height="71.6" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="flag-2" x="0" y="121.4" width="76.4" height="98.2" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-3" x="0" y="60.7" width="312.5" height="71.6" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="flag-3" x="0" y="60.7" width="76.4" height="98.2" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.255"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-4" x="0" y="0" width="312.5" height="71.6" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="flag-4" x="0" y="0" width="76.4" height="98.2" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="cycle-graphic" transform="translate(9 6)">
+    <g id="REPEAT">
+      <g class="cls-18" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="bg-5" data-name="bg" class="cls-1" d="M0,182.1H294.5v53.6H0Z" transform="translate(9 6)"/>
+      </g>
+      <g class="cls-17" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="flag-5" data-name="flag" class="cls-2" d="M0,182.1H58.4v53.5L29.2,262.3,0,235.6Z" transform="translate(9 6)"/>
+      </g>
+      <text id="copy" class="cls-3" transform="translate(81 192)"><tspan x="0" y="9">Then incentivize elected officials to pass </tspan><tspan x="0" y="21">racist “hard on crime” and immigration </tspan><tspan x="0" y="33">laws.</tspan></text>
+      <g id="icon" transform="translate(250.658 189.309)">
+        <path id="Path_60" data-name="Path 60" class="cls-4" d="M2,27.9H18.72v2.59H2Zm5.915-16.74L11.856,7.5l19.7,18.311-3.941,3.662Zm9.849-9.151L25.644,9.33,21.7,12.992,13.822,5.668ZM5.941,12.992l7.881,7.324-3.94,3.662L2,16.654Z"/>
+      </g>
+      <text id="flag-text" class="cls-5" transform="translate(29 220)"><tspan x="-22.847" y="0">REPEAT</tspan></text>
+    </g>
+    <g id="BRIBE">
+      <g class="cls-16" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="bg-6" data-name="bg" class="cls-1" d="M0,121.4H294.5V175H0Z" transform="translate(9 6)"/>
+      </g>
+      <g class="cls-15" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="flag-6" data-name="flag" class="cls-2" d="M0,121.4H58.4v53.5L29.2,201.6,0,174.9Z" transform="translate(9 6)"/>
+      </g>
+      <text id="copy-2" data-name="copy" class="cls-3" transform="translate(81 130)"><tspan x="0" y="9">They pour that blood money into our </tspan><tspan x="0" y="21">political system through campaign </tspan><tspan x="0" y="33">donations, super PACs and lobby groups</tspan></text>
+      <g id="icon-2" data-name="icon" transform="translate(252.502 133)">
+        <path id="Path_61" data-name="Path 61" class="cls-6" d="M8,26H9.918a6.08,6.08,0,0,1,5.116,2.558h3.837a4.226,4.226,0,0,1,3.837,3.837H13.755" transform="translate(-2.163 -7.931)"/>
+        <path id="Path_62" data-name="Path 62" class="cls-6" d="M21.542,32h6.282a3.855,3.855,0,0,1,3.837,2.558L18.1,39.511a5.985,5.985,0,0,1-3.188-.115L8,36.476" transform="translate(-2.163 -10.095)"/>
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-7" cx="3.197" cy="3.197" r="3.197" transform="translate(18.626 10.395)"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-7" cx="3.197" cy="3.197" r="3.197" transform="translate(9.674 4)"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-7" width="3.837" height="10.232" transform="translate(2 16.79)"/>
+      </g>
+      <text id="flag-text-2" data-name="flag-text" class="cls-5" transform="translate(29 159)"><tspan x="-17.36" y="0">BRIBE</tspan></text>
+    </g>
+    <g id="PROFIT">
+      <g class="cls-14" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="bg-7" data-name="bg" class="cls-1" d="M0,60.7H294.5v53.6H0Z" transform="translate(9 6)"/>
+      </g>
+      <g class="cls-13" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="flag-7" data-name="flag" class="cls-8" d="M0,60.7H58.4v53.5L29.2,140.9,0,114.2Z" transform="translate(9 6)"/>
+      </g>
+      <text id="copy-3" data-name="copy" class="cls-3" transform="translate(81 71)"><tspan x="0" y="9">They hire GEO Group to capture you and </tspan><tspan x="0" y="21">throw you in their prisons and detention </tspan><tspan x="0" y="33">centers</tspan></text>
+      <g id="icon-3" data-name="icon" transform="translate(227.264 324.996)">
+        <path id="link-left" class="cls-4" d="M15.012,12.672a5.337,5.337,0,0,0-2-1.257l-.355.355a2.281,2.281,0,0,0-.57.977,3.828,3.828,0,0,1,1.84,6.439l-3.838,3.837A3.839,3.839,0,0,1,4.66,17.6l2.857-2.858A6.861,6.861,0,0,1,7.374,13.4a6.981,6.981,0,0,1,.04-.73l0,0L3.574,16.51a5.374,5.374,0,1,0,7.6,7.6l3.838-3.837a5.373,5.373,0,0,0,0-7.6Z" transform="translate(31.238 -254.185)"/>
+        <path id="link-right" class="cls-4" d="M24.013,3.576a5.38,5.38,0,0,0-7.6,0L12.575,7.414a5.362,5.362,0,0,0,2,8.857l.355-.355a2.283,2.283,0,0,0,.57-.976,3.829,3.829,0,0,1-1.84-6.44L17.5,4.661a3.839,3.839,0,0,1,5.429,5.429l-2.852,2.853a6.852,6.852,0,0,1,.137,1.344,6.981,6.981,0,0,1-.04.73l0,0,3.838-3.838a5.374,5.374,0,0,0,0-7.6Z" transform="translate(29.148 -252)"/>
+      </g>
+      <text id="flag-text-3" data-name="flag-text" class="cls-5" transform="translate(29 98)"><tspan x="-21.468" y="0">PROFIT</tspan></text>
+    </g>
+    <g id="CAGE">
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="bg-8" data-name="bg" class="cls-1" d="M0,0H294.5V53.6H0Z" transform="translate(9 6)"/>
+      </g>
+      <g class="cls-11" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <path id="flag-8" data-name="flag" class="cls-2" d="M0,0H58.4V53.5L29.2,80.2,0,53.5Z" transform="translate(9 6)"/>
+      </g>
+      <text id="copy-4" data-name="copy" class="cls-3" transform="translate(81 12)"><tspan x="0" y="9">ICE and police officers separate you from </tspan><tspan x="0" y="21">your family</tspan><tspan x="0" y="33"></tspan></text>
+      <g id="icon-4" data-name="icon" transform="translate(258.502 15.503)">
+        <path id="Path_41" data-name="Path 41" class="cls-9" d="M6.954,8.909h0A1.954,1.954,0,0,1,5,6.954H5A1.954,1.954,0,0,1,6.954,5h0A1.954,1.954,0,0,1,8.909,6.954h0A1.954,1.954,0,0,1,6.954,8.909Z" transform="translate(-1.534 -1.534)"/>
+        <path id="Path_42" data-name="Path 42" class="cls-10" d="M6.886,30.214H3.954L3.466,24.84,2,24.352v-4.4A1.954,1.954,0,0,1,3.954,18H6.886a1.954,1.954,0,0,1,1.674.946" transform="translate(0 -8.183)"/>
+        <path id="Path_43" data-name="Path 43" class="cls-9" d="M36.954,8.909h0a1.954,1.954,0,0,0,1.954-1.954h0A1.954,1.954,0,0,0,36.954,5h0A1.954,1.954,0,0,0,35,6.954h0A1.954,1.954,0,0,0,36.954,8.909Z" transform="translate(-16.877 -1.534)"/>
+        <path id="Path_44" data-name="Path 44" class="cls-10" d="M34.247,30.214h2.931l.489-5.374,1.466-.489v-4.4A1.954,1.954,0,0,0,37.179,18H34.247a1.954,1.954,0,0,0-1.674.946" transform="translate(-15.636 -8.183)"/>
+        <path id="Path_45" data-name="Path 45" class="cls-9" d="M20.931,7.863h0A2.931,2.931,0,0,1,18,4.931h0A2.931,2.931,0,0,1,20.931,2h0a2.931,2.931,0,0,1,2.931,2.931h0A2.931,2.931,0,0,1,20.931,7.863Z" transform="translate(-8.183)"/>
+        <path id="Path_46" data-name="Path 46" class="cls-9" d="M21.329,32.192H16.443l-.489-5.863L14,25.84V20.954A1.954,1.954,0,0,1,15.954,19h5.863a1.954,1.954,0,0,1,1.954,1.954V25.84l-1.954.489Z" transform="translate(-6.137 -8.694)"/>
+      </g>
+      <text id="flag-text-4" data-name="flag-text" class="cls-5" transform="translate(29 30)"><tspan x="-16.045" y="0">CAGE</tspan></text>
+    </g>
+  </g>
+</svg>
